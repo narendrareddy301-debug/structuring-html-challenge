@@ -63,6 +63,12 @@ section {
   padding: 1%;
 }
 
+footer,
+p {
+  align-items: center;
+  justify-content: center;
+}
+
 h1 {
   text-transform: uppercase;
   display: flex;
